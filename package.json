@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native-scripts start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "expo": "^34.0.4",
+    "react": "^16.9.0",
+    "react-devtools": "^3.6.3",
+    "react-dom": "^16.9.0",
+    "react-native": "^0.59.10",
+    "react-native-calendars": "^1.205.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "~1.3.0",
+    "react-native-reanimated": "~1.1.0",
+    "react-native-scripts": "^2.0.1",
+    "react-native-unimodules": "^0.5.4",
+    "react-native-web": "^0.11.6",
+    "react-navigation": "^3.11.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "babel-preset-expo": "^6.0.0",
+    "jest-expo": "^34.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "private": true
+}

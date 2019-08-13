@@ -4,7 +4,7 @@ import { createAppContainer, createStackNavigator } from 'react-navigation';
 // navigation screens
 import SecondScreen from './navigation/SecondScreen';
 import FirstScreen from './navigation/FirstScreen';
-import WelcomeScreen from './navigation/WelcomeScreen.jsx';
+import WelcomeScreen from './navigation/WelcomeScreen';
 
 
 const AppNavigator = createStackNavigator({

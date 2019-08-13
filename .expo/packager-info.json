@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 12244,
-  "expoServerNgrokUrl": "https://dh-q6k.anonymous.alarm.exp.direct",
-  "packagerNgrokUrl": "https://packager.dh-q6k.anonymous.alarm.exp.direct",
-  "ngrokPid": 12269
+  "packagerPid": 11430,
+  "expoServerNgrokUrl": "https://dh-q6k.anonymous.react-native-boilerplate.exp.direct",
+  "packagerNgrokUrl": "https://packager.dh-q6k.anonymous.react-native-boilerplate.exp.direct",
+  "ngrokPid": 11494
 }
